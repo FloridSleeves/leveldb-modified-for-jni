@@ -1,0 +1,1 @@
+# leveldb-modified-for-jni
